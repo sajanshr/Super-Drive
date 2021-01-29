@@ -9,15 +9,15 @@ First, a simple files storage service where a user can upload a file, download a
 update and delete a text notes. Finally, a password management service where the user can save, edit and delete website credentials.  
 
 ----Technologies----
-   . Spring MVC
-   . Thymeleaf
-   . MyBatis
-   . Seleneium 
-   . IntelliJ IDEA
+   1. Spring MVC
+   2. Thymeleaf
+   3. MyBatis
+   4. Seleneium 
+   5. IntelliJ IDEA
   
 ----How to Use----
-  . Download the this zip file
-  . Open in a IDE
-  . Run the CloudStrorageApplication.java which is inside src/main/java
-  . open your web browser and type "http://localhost:8080/login"
-  . signup, login then you will be directed to the home page where you can save your files, notes and credentials.
+  1. Download the this zip file
+  2. Open in a IDE
+  3. Run the CloudStrorageApplication.java which is inside src/main/java
+  4. open your web browser and type "http://localhost:8080/login"
+  5. signup, login then you will be directed to the home page where you can save your files, notes and credentials.
