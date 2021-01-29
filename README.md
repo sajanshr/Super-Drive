@@ -12,7 +12,7 @@ update and delete a text notes. Finally, a password management service where the
    1. Spring MVC
    2. Thymeleaf
    3. MyBatis
-   4. Seleneium 
+   4. Selenium 
    5. IntelliJ IDEA
   
 ----How to Use----
