@@ -1,4 +1,4 @@
-# Cloud-Storage-Application
+# Super Drive
 A personal information management web application where a user can save their files, notes and credentials.
 
 
